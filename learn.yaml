@@ -20,4 +20,4 @@ spec:
         # Your custom Node.js image
         image: docker.io/yvmr/np:latest 
         ports:
-        - containerPort: 80 # The port your Node.js application is listening on
+        - containerPort: 3000 # The port your Node.js application is listening on
